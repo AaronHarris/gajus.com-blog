@@ -122,7 +122,7 @@ Method used to instantiate the SUT object with canonical values, overwriting onl
 
 <iframe width="100%" height="300" src="http://jsfiddle.net/gajus/ugfp6k0s/embedded/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
-See https://github.com/petejkim/factory-lady, Object Mother and Test Data Builders.
+See https://github.com/aexmachina/factory-girl, Object Mother and Test Data Builders.
 
 ### SEE Pattern
 
